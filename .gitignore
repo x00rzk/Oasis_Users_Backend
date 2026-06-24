@@ -1,0 +1,14 @@
+# Database credentials
+config.ini
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Error logs
+*.log
+error_log
